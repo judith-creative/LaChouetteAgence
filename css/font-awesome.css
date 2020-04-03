@@ -24,6 +24,14 @@
     content: "\f077"
 }
 
+.fa-chevron-left:before {
+    content: "\f053"
+}
+
+.fa-chevron-right:before {
+    content: "\f054"
+}
+
 .fa-twitter:before {
     content: "\f099"
 }
